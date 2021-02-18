@@ -1,0 +1,14 @@
+{
+  "name": "WebApplication8",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^11.2.0",
+    "rollup": "^2.39.0",
+    "rollup-plugin-svelte": "^7.1.0",
+    "svelte": "^3.32.3"
+  }
+}
